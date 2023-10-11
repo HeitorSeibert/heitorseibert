@@ -20,4 +20,4 @@ Você pode me encontrar nas seguintes redes sociais:
 💻 Sistema operacional windows 
 
 ## Things that I like
-Gosto de jogar jogos que necessitam de concentração com um toque de realidade e comunicação entre players 
+🎮 Gosto de jogar jogos que necessitam de concentração com um toque de realidade e comunicação entre players 
