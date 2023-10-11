@@ -1,5 +1,3 @@
-# heitorseibert.github.io
-
 # Heitor Seibert dos Santos
 
 - 🏠 São Miguel do Oeste, Brasil
