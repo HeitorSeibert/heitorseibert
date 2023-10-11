@@ -5,7 +5,7 @@
 - 👨‍💼 Designer Gráfico, Publicitário e Vídeo Maker na Agência Polo/TVGC
 
 ## Sobre Mim
-Olá! Eu sou Heitor Seibert dos Santos, um jovem de 17 anos com uma paixão pelo design gráfico, publicidade e criação de vídeos. Atualmente, estou cursando Jovem Programador na Universidade Senac/SC e trabalhando como Designer Gráfico, Publicitário e Vídeo Maker na Agência Polo/TVGC, localizada em São Miguel do Oeste.
+Olá! Eu sou Heitor Seibert dos Santos, um jovem de 17 anos com uma paixão pelo design gráfico, publicidade e criação de vídeos. Atualmente, estou cursando Programação na Universidade Senac/SC e trabalhando como Designer Gráfico, Publicitário e Vídeo Maker na Agência Polo/TVGC, localizada em São Miguel do Oeste.
 
 ## Contato
 Você pode me encontrar nas seguintes redes sociais:
