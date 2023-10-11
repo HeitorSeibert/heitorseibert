@@ -1,7 +1,7 @@
 # Heitor Seibert dos Santos
 
 - 🏠 São Miguel do Oeste, SC
-- 🎓 [Estudante de Programação na Universidade] (https://portal.sc.senac.br/portal/novo/)
+- 🎓 [Estudante de Programação na Universidade:] (https://portal.sc.senac.br/portal/novo/)
 - 👨‍💼 Designer Gráfico, Publicitário e Vídeo Maker na Agência Polo/TVGC
 
 ## Sobre Mim
@@ -9,6 +9,15 @@ Olá! Eu sou Heitor Seibert dos Santos, um jovem de 17 anos com uma paixão pelo
 
 ## Contato
 Você pode me encontrar nas seguintes redes sociais:
-
 - [Discord](https://discord.gg/2nEvgywQ)
 - [Instagram](https://instagram.com/heitor_seibert?igshid=MzRlODBiNWFlZA==)
+
+## Knowledge in:
+💻 PHP
+💻 JS
+💻 CSS
+💻 HTML
+💻 Sistema operacional windows 
+
+## Things that I like
+Gosto de jogar jogos que necessitam de concentração com um toque de realidade e comunicação entre players 
