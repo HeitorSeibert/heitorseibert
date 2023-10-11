@@ -1,7 +1,7 @@
 # Heitor Seibert dos Santos
 
 - 🏠 São Miguel do Oeste, SC
-- 🎓 Estudante de Programação na Universidade (https://portal.sc.senac.br/portal/novo/)
+- 🎓 [Estudante de Programação na Universidade] (https://portal.sc.senac.br/portal/novo/)
 - 👨‍💼 Designer Gráfico, Publicitário e Vídeo Maker na Agência Polo/TVGC
 
 ## Sobre Mim
